@@ -1,7 +1,7 @@
 # IR-Black
 
 Terminal color settings based on Todd Werth's [IR_Black terminal theme][1] 
-for OS X [redacted].
+for OS X Lion.
 
 ## Installation
 
